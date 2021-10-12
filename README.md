@@ -1,7 +1,8 @@
 # Google Developer Groups Lethoso Chapter
-# Team- Code_monks
-# [website functionality Video](https://youtu.be/CCeiAq4payc)
-
+____
+## Team- Code_monks
+## [website functionality Video](https://youtu.be/CCeiAq4payc)
+____
 ### Some info regarding the website
 ### please use the following credentials
 ### username: admin@pheha.com
