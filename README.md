@@ -1,1 +1,1 @@
-# Google_Developer_Groups_Lethoso
+# Google Developer Groups Lethoso Chapter
